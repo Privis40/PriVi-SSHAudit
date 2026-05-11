@@ -140,11 +140,10 @@ This is a **read-only, passive analysis tool** from the network perspective.
 ## Author & Brand
 
 **Prince Ubebe**
-Cybersecurity Analyst | Security Automation Engineer | Founder, PriViSecurity Solutions
-CAC Registered: No. 9511950
+Cybersecurity Analyst | Security Automation Engineer 
 
 - GitHub: [github.com/Privis40](https://github.com/Privis40)
-- LinkedIn: [linkedin.com/in/prince-ubebe](https://linkedin.com/in/prince-ubebe)
+- LinkedIn: [https://www.linkedin.com/in/prince-ubebe-291573321)
 - YouTube: [@princeubebecyber](https://youtube.com/@princeubebecyber)
 - HackerOne / Bugcrowd: Active researcher
 

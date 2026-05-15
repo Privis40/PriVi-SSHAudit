@@ -3,6 +3,12 @@
 
 **Developed by Prince Ubebe | [PriViSecurity](https://github.com/Privis40)**
 
+<div align="center">
+
+![PriVi-SSHAudit Dashboard]Elite.PNG)
+
+</div>
+
 ---
 
 ## ⚠️ Legal Notice
